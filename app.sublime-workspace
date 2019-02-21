@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"colo",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"s",
+				"sessionmaker"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"i",
+				"idade"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 255.0,
+		"history":
+		[
+			"class Pessoa:",
+			"open",
+			"cd",
+			"cd..",
+			"python",
+			"class Pessoa:",
+			"teste.py",
+			"run"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/views/cadastro_2.html",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/views/cadastro_3.html",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/views/verificacao_login.html",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/views/login.html",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/views/verificacao_cadastro.html",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/views/index.html",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/views/cadastro.html",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/runtime.txt",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/requirements.txt",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/.gitignore",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/views/base.html",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/model.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO_secao7/sistema_login/README.md",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Sqlite/aula95/__pycache__/database.cpython-37.pyc",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/aula82.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/aula82.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/notas/notasAula81.txt",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/notas/notas.txt",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/test_operacoes.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/operacoes.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/numeroromano.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/test-numeroromano.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/test-random.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/aula77.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/test3_pytest_math.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/test2_pytest_class.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/test1_pytest.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/aulas/Testes/test1_pytest",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/projeto/mypyproject/cookiecutter.json",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/projeto/myproject/cookiecutter.json",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/projeto/myproject/{{cookiecutter.repo_name}}/setup.py",
+		"/C/Users/aldec/Google Drive/CursosProgramacao/CursoPythonUdemy/CursoPythonPOO/projeto/myproject/{{cookiecutter.repo_name}}/__init__.py",
+		"/C/Users/aldec/Desktop/teste.py",
+		"/C/Program Files/Java/jdk1.8.0_191/jre/lib/fontconfig.bfc",
+		"/C/Program Files/Java/jdk1.8.0_191/jre/lib/jfxswt.jar",
+		"/C/Program Files/Java/jdk1.8.0_191/jre/lib/management-agent.jar",
+		"/C/Program Files/Java/jdk1.8.0_191/jre/lib/jvm.hprof.txt",
+		"/C/Users/aldec/Google Drive/CursoPython/Mundo3/Exercicios/ex098UseWhile.py",
+		"/C/Users/aldec/Google Drive/CursoHtml/Aula04_OlaMundo"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
