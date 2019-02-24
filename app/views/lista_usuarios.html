@@ -1,11 +1,31 @@
 % rebase('base.html', title='Lista de usuários')
 
-<div class="alert alert-info">
-	Lista de usuários do sistema.
-</div>
+<!DOCTYPE html>
+<html>
 
-<ul class="list-group" style="width:20%">
-	% for usuario in usuarios:
-	<li class="list-group-item">{{ usuario.username }}</li>
-	% end
-</ul>
+<head>
+	<style>
+		h3 {
+			color: rgb(18, 12, 70);
+		}
+	</style>
+	<style>
+		li {
+			color: rgb(2, 52, 71)
+		}
+	</style>
+</head>
+
+<center>
+	<div class="panel-heading">
+		<h3>Lista de usuários:</h3>
+	</div>
+
+	<ul class="list-group" style="width:80%">
+		% for usuario in usuarios:
+		<li class="list-group-item">{{ usuario.username }}</li>
+		% end
+	</ul>
+</center>
+
+</html>
