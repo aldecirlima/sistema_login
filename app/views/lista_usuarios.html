@@ -14,18 +14,30 @@
 			color: rgb(2, 52, 71)
 		}
 	</style>
+	<style>
+		.redtext {
+			color: red;
+		}
+	</style>
 </head>
 
-<center>
-	<div class="panel-heading">
-		<h3>Lista de usuários:</h3>
-	</div>
+<body>
+	<center>
+		<div class="panel-heading">
+			<h3>Lista de usuários:</h3>
+		</div>
 
-	<ul class="list-group" style="width:80%">
-		% for usuario in usuarios:
-		<li class="list-group-item">{{ usuario.username }}</li>
-		% end
-	</ul>
-</center>
+		<ul class="list-group" style="width:80%">
+			% if acesso:
+			% for usuario in usuarios:
+			<li class="list-group-item">{{ usuario.username }}</li>
+			% end
+			% else:
+			<li class="redtext"><strong>Acesso negado!</strong></li><br>
+			<p><a href="/">Clique aqui</a> para fazer o login.</p>
+			% end
+		</ul>
+	</center>
+</body>
 
 </html>
